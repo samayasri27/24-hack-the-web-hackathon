@@ -15,7 +15,7 @@ const TestimonialCarousel = () => {
       name: "Priya Sharma",
       role: "Web Developer at Tech Corp",
       image:
-        "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+        "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
       content:
         "KK Computers transformed my career! The hands-on training in React and Node.js helped me land my dream job. The instructors were incredibly supportive and the curriculum was industry-relevant.",
       rating: 5,
