@@ -1,4 +1,5 @@
-# KK Computers - Digital Youth Connect
+# 24-HACK THE WEB HACKATHON 
+## KK Computers - Digital Youth Connect
 
 A comprehensive web platform for KK Computers, designed to empower youth with digital skills through IT training, certifications, and educational programs.
 
@@ -114,11 +115,3 @@ The project includes:
 - ESLint for code linting
 - Consistent code formatting
 - Modern React patterns and hooks
-
-## 📄 License
-
-This project is proprietary software developed for KK Computers.
-
-## 📞 Support
-
-For technical support or questions about the platform, please contact the development team.
